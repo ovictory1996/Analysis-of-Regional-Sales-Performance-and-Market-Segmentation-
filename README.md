@@ -18,7 +18,6 @@
 
 - [Summary of Analysis](#Summary-of-Analysis)
 
-- [Conclusion](#Conclusion)
 
 
 ## Introduction:
@@ -77,6 +76,14 @@ The dataset employed in this study is the Global Superstore dataset, a publicly 
 ## Data visualization 
    To analyze Regional Sales Performance and Market Segmentation, several Power BI visualizations will be applied. Bar charts will be used to compare sales and profit across regions. Pie and stacked column charts will illustrate market segmentation by Customer type (Consumer, Corporate, Home Office).
 ![SALES_DASHBOAD](globals.png)
-  
+
+## Insight from analysis:
+  - Regional Sales Performance – Sales were not evenly distributed across regions. The West and East regions recorded higher sales and profit, while the South and Central regions showed weaker performance, with some orders generating losses.
+  - Segment – The Consumer segment contributed the largest share of sales, followed by Corporate, while the Home Office segment recorded the lowest revenue.
+  - Sales Trends – Seasonal fluctuations were noted, with peak sales occurring towards the end of the year, suggesting that promotions and holiday seasons significantly drive sales volume.
+
+## Summary of Analysis
+  The analysis showed that sales and profit varied significantly across regions, with the West and East performing better than the South and Central. Among customer segments, the Consumer segment contributed the highest sales, while the Corporate segment showed stronger profit margins in some regions. Product analysis revealed that Technology items drove strong revenue, while Furniture often had lower profitability due to discounts and shipping costs. A clear negative impact of discounts on profit was also observed, alongside seasonal sales trends peaking at year-end.
+  -
 
    
