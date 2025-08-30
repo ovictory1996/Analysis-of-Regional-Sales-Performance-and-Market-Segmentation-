@@ -61,17 +61,17 @@ The dataset employed in this study is the Global Superstore dataset, a publicly 
         - Average Sale - Average_Sales = AVERAGE('Sample - Superstore'[Sales])
         - Total Customer - Total_Customer = DISTINCTCOUNT('Sample - Superstore'[Customer Name])
    
-    (e) Data analysis
-        - Total sales and Profit by Quantity
-        - Total sales by Region
-        - Total sales by Segment
-        - Top 10 Total sales by State
-        - Total Sales
-        - Total Profit
-        - Total Quantity
-        - Total Cost
-        - Average Sale
-        - Total Customer
+## Data analysis
+   - Total sales and Profit by Quantity
+   - Total sales by Region
+   - Total sales by Segment
+   - Top 10 Total sales by State
+   - Total Sales
+   - Total Profit
+   - Total Quantity
+   - Total Cost
+   - Average Sale
+   - Total Customer
 
 
    (d) Data visualization 
