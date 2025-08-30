@@ -36,4 +36,4 @@ The dataset spans multiple years and covers customers from different geographica
 ## Data Collection and Preparation
 ## Data Source
 The dataset employed in this study is the Global Superstore dataset, a publicly available sample dataset widely used for research, academic projects, and business intelligence training. It was originally released by Tableau Software as a demonstration dataset for data visualization and analysis.
-[Download Global Superstore Dataset.csv](Global Superstore Dataset raw file.csv)
+[Download Global Superstore Dataset](Global_Superstore_Dataset_raw_file.csv)
