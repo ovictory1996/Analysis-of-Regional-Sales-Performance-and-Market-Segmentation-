@@ -36,4 +36,48 @@ The dataset spans multiple years and covers customers from different geographica
 ## Data Collection and Preparation
 ## Data Source
 The dataset employed in this study is the Global Superstore dataset, a publicly available sample dataset widely used for research, academic projects, and business intelligence training. It was originally released by Tableau Software as a demonstration dataset for data visualization and analysis.
-[Download Global Superstore Dataset](Global_Superstore_Dataset_raw_file.csv)
+- [Download Global Superstore Dataset](Global_Superstore_Dataset_raw_file.csv)
+
+### Tools used: Powerbi
+    - Power Query Editor.
+    - DAX
+    - Explicit  Measure
+    - Implicit Measure
+    - Added card with states
+    - Slicer
+    
+## Skills demonstrated
+1. Data Cleaning, Preparation  and Transformation:
+   (a)  Removing the duplicates
+   (b). Removing the superfluous Column
+          - Row_id
+          - Postal code
+    (c) Change the data type like Order Date, Ship Date
+    (d) Calculating the measures
+        - Total Sales -Total_Sales = SUM('Sample - Superstore'[Sales])
+        - Total Profit - Total_Profit = SUM('Sample - Superstore'[Profit])
+        - Total Quantity- Total_Quantity = SUM('Sample - Superstore'[Quantity])
+        - Total Cost- Total_Cost = [Total_Sales]-[Total_Profit]
+        - Average Sale - Average_Sales = AVERAGE('Sample - Superstore'[Sales])
+        - Total Customer - Total_Customer = DISTINCTCOUNT('Sample - Superstore'[Customer Name])
+   
+    (e) Data analysis
+        - Total sales and Profit by Quantity
+        - Total sales by Region
+        - Total sales by Segment
+        - Top 10 Total sales by State
+        - Total Sales
+        - Total Profit
+        - Total Quantity
+        - Total Cost
+        - Average Sale
+        - Total Customer
+
+
+   (d) Data visualization 
+  
+    (e)Dashboard development 
+ 
+    (f) Insight Generation 
+
+   
