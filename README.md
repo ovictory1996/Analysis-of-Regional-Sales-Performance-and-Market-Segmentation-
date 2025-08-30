@@ -86,4 +86,4 @@ The dataset employed in this study is the Global Superstore dataset, a publicly 
   - The analysis showed that sales and profit varied significantly across regions, with the West and East performing better than the South and Central. Among customer segments, the Consumer segment contributed the highest sales, while the Corporate segment showed stronger profit margins in some regions. Product analysis revealed that Technology items drove strong revenue, while Furniture often had lower profitability due to discounts and shipping costs. A clear negative impact of discounts on profit was also observed, alongside seasonal sales trends peaking at year-end.
   -
 
-- [Back to top](#Analysis-of-Sales-in-different-regions-from-2013-to-2015)
+- [Back to top](#Introduction)
