@@ -74,10 +74,9 @@ The dataset employed in this study is the Global Superstore dataset, a publicly 
    - Total Customer
 
 
-   (d) Data visualization 
+## Data visualization 
+   To analyze Regional Sales Performance and Market Segmentation, several Power BI visualizations will be applied. Bar charts will be used to compare sales and profit across regions. Pie and stacked column charts will illustrate market segmentation by Customer type (Consumer, Corporate, Home Office).
+![SALES_DASHBOAD](globals.png)
   
-    (e)Dashboard development 
- 
-    (f) Insight Generation 
 
    
