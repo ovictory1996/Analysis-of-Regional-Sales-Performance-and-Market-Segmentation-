@@ -46,13 +46,13 @@ The dataset employed in this study is the Global Superstore dataset, a publicly 
     - Slicer
     
 ## Skills demonstrated
-1. Data Cleaning, Preparation  and Transformation:
-   (a)  Removing the duplicates
-   (b). Removing the superfluous Column
+- Data Cleaning, Preparation  and Transformation:
+   - Removing the duplicates
+   - Removing the superfluous Column
           - Row_id
           - Postal code
-    (c) Change the data type like Order Date, Ship Date
-    (d) Calculating the measures
+     - Change the data type like Order Date, Ship Date
+    - Calculating the measures
         - Total Sales -Total_Sales = SUM('Sample - Superstore'[Sales])
         - Total Profit - Total_Profit = SUM('Sample - Superstore'[Profit])
         - Total Quantity- Total_Quantity = SUM('Sample - Superstore'[Quantity])
